@@ -16,8 +16,6 @@ $ pkg install git
 $ git clone https://github.com/ibrahimadaballi/zefoy
 $ cd Zefoy
 $ ls
-$ git pull
-$ ls
 $ make install
 $ ls
 $ ./main
