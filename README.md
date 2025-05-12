@@ -8,6 +8,8 @@ Script termux auto followers & views tiktok terbaru !
 <details open><summary><code>Perintah Script?</code></summary>
 
 ```php
+$ apt update && apt upgrade
+$ pkg install bash curl wget jq
 $ git clone https://github.com/ibrahimadaballi/zefoy
 $ cd Zefoy
 $ make install
