@@ -10,6 +10,8 @@ Script termux auto followers & views tiktok terbaru !
 ```php
 $ apt update && apt upgrade
 $ pkg install bash curl wget jq
+$ pkg install python python-pip
+$ pkg install make clong
 $ git clone https://github.com/ibrahimadaballi/zefoy
 $ cd Zefoy
 $ make install
