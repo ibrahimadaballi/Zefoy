@@ -14,7 +14,10 @@ $ pkg install python python-pip
 $ pkg install make clong
 $ git clone https://github.com/ibrahimadaballi/zefoy
 $ cd Zefoy
+$ git pull
+$ ls
 $ make install
+$ ls
 $ ./main
 
 Atau bisa juga run script nya dg ketik perintah
