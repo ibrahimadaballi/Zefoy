@@ -12,6 +12,7 @@ $ apt update && apt upgrade
 $ pkg install bash curl wget jq
 $ pkg install python python-pip
 $ pkg install make clong
+$ pkg install git
 $ git clone https://github.com/ibrahimadaballi/zefoy
 $ cd Zefoy
 $ git pull
